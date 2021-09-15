@@ -1,4 +1,4 @@
-- Hi, I’m @llTurtle22ll
+- Hi, I’m llTurtle22ll
 - I’m interested in Videogames and technology in general
 - I’m currently learning programing and computer engineering
 
